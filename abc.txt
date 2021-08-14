@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sua file xyz
+=======
+sua file abc
+>>>>>>> 2b97644b4ca0d612b85b2abf9e8875c949ecdd41
